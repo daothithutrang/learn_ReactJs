@@ -1,0 +1,19 @@
+.header {
+    background: black;
+    font-size: 18px;
+    color: white;
+    padding: 10px;
+    display: flex;
+}
+
+.header-left {
+    text-align: left;
+    width: 30%;
+}
+
+.header-right {
+    display: flex;
+    text-align: right;
+    width: 70%;
+    right: 5px;
+}

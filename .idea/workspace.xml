@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0b43e86-6d9d-4113-8fbc-f7a3ef65b80c" name="Default Changelist" comment="" />
+    <list default="true" id="d0b43e86-6d9d-4113-8fbc-f7a3ef65b80c" name="Default Changelist" comment="create new project reactjs">
+      <change afterPath="$PROJECT_DIR$/learn-react/src/Component/Content/content.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-react/src/Component/Content/content.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-react/src/Component/Content/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-react/src/Component/Footer/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-react/src/Component/Footer/footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-react/src/Component/Footer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-react/src/Component/Header/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-react/src/Component/Header/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-react/src/Component/Header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-react/src/Component/Welcome/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-react/src/Component/Welcome/welcome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-react/src/Component/Welcome/welcome.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-react/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/learn-react/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-react/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/learn-react/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-react/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/learn-react/src/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,10 +47,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo_ProjectJS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tiep Nguyen Duc\Desktop\learn_ReactJs\learn-react\src" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -34,17 +65,52 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655312670765</updated>
-      <workItem from="1655312671860" duration="137000" />
+      <workItem from="1655312671860" duration="1288000" />
+      <workItem from="1655314021783" duration="1690000" />
+      <workItem from="1655346237907" duration="706000" />
+      <workItem from="1655348198076" duration="1915000" />
     </task>
+    <task id="LOCAL-00001" summary="create new project reactjs">
+      <created>1655313071291</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655313071291</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create new project reactjs" />
+    <option name="LAST_COMMIT_MESSAGE" value="create new project reactjs" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1655346268898">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1655346268898" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1655312809180">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1655312809180" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1655313083150">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1655313083150" />
   </component>
 </project>
